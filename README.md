@@ -2,7 +2,7 @@
 
  
 
-## I'm (Amanda Lobo)!
+## I'm Amanda Lobo!
 
  
 
