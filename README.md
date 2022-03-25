@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from São Paulo, Brazil.
 
-:books: I’m currently learning everything.
+:books: Always looking for new learning.
 
 :outbox_tray: 2022 Goals: create news projects and find a new job.
 
