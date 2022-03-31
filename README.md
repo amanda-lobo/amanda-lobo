@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to Amanda's Studies</h1><img align="right" src="https://user-images.githubusercontent.com/69702275/160034636-c752b845-0e0a-4a67-9017-069f09466152.jpg" width="500" height="400"/>
 
-# Welcome! 👋
 
 
 ## I'm Amanda Lobo!
