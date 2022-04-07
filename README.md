@@ -20,7 +20,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amanda-gomes-lobo-853231226/)](https://www.linkedin.com/in/amanda-gomes-lobo-853231226/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandalobo.ag@gmail.com)](mailto:amandalobo.ag@gmail.com)<br>
-<br>
 
 <h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
 
