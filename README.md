@@ -19,7 +19,6 @@
 
 :outbox_tray: 2022 Goals: create news projects and find a new job.
 
-<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-lobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&theme=dracula"/>
 
