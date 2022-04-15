@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/amanda-lobo">
- <img align="right" src="https://i.imgur.com/OtdC7Di.png" width="450" height="600"/>
+ <img align="right" src="https://i.imgur.com/OtdC7Di.png" width="350" height="500"/>
 </div> 
 
 # Hello World!
