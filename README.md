@@ -5,11 +5,9 @@
  <img align="right" src="https://i.imgur.com/OtdC7Di.png" width="350" height="500"/>
 </div> 
 
-# Hello World!
+ <h2> Hello World! </h2>
 
-## I'm Amanda Lobo 👩‍💻
-###### (She | Her)
- 
+ <h3> I'm Amanda Lobo (She | Her)👩‍💻</h3>
 
 :computer: I'm Full-Stack Developer!
 
