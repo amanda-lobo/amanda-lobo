@@ -8,7 +8,7 @@
 # Hello World!
 
 ## I'm Amanda Lobo 👩‍💻
-
+###### (She | Her)
  
 
 :computer: I'm Full-Stack Developer!
@@ -17,7 +17,7 @@
 
 :books: Always looking for new learning.
 
-:outbox_tray: 2022 Goals: create news projects and find a new job.
+:outbox_tray: Goals for 2022: create new projects and go in search of new challenges.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&theme=dracula"/>
 
