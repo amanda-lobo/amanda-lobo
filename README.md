@@ -26,4 +26,4 @@
 
 <h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
 
-
+![Snake animation](https://github.com/amanda-lobo/amanda-lobo/blob/output/github-contribution-grid-snake.svg)
