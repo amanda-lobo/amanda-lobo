@@ -1,7 +1,5 @@
 <h1 align="center"> ✨ Welcome to Amanda's Studies ✨</h1>
 
- <h2 align="center"> Hello World! </h2>
-
  <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
 
 <p align="center">:computer:  I'm Full-Stack Developer Jr, from São Paulo, Brazil.
