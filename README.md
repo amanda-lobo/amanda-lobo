@@ -4,14 +4,9 @@
 
  <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
 
-<p align="center">:computer: I'm Full-Stack Developer!
-
-<p align="center">:house_with_garden: I’m from São Paulo, Brazil.
-
+<p align="center">:computer:  I'm Full-Stack Developer Jr, from São Paulo, Brazil.
 <p align="center">:books: Always looking for new learning.
 
-<p align="center">:outbox_tray: Goals for 2022: create new projects and go in search of new challenges.
- 
  ##
 
 <div align="center">
