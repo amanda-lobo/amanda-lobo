@@ -1,21 +1,23 @@
 <h1 align="center"> ✨ Welcome to Amanda's Studies ✨</h1>
 
- <h2> Hello World! </h2>
+ <h2 align="center"> Hello World! </h2>
 
- <h3> I'm Amanda Lobo (She | Her)👩‍💻</h3>
+ <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
 
-:computer: I'm Full-Stack Developer!
+<p align="center">:computer: I'm Full-Stack Developer!
 
-:house_with_garden: I’m from São Paulo, Brazil.
+<p align="center">:house_with_garden: I’m from São Paulo, Brazil.
 
-:books: Always looking for new learning.
+<p align="center">:books: Always looking for new learning.
 
-:outbox_tray: Goals for 2022: create new projects and go in search of new challenges.
+<p align="center">:outbox_tray: Goals for 2022: create new projects and go in search of new challenges.
+ 
+ ##
 
 <div align="center">
-  <a href="https://github.com/amanda-lobo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-lobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&theme=dracula"/>
+   <a href="https://github.com/Insivam">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanda-lobo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
 </div>
  
  <div align="center" style="display: inline_block"><br>
@@ -31,8 +33,11 @@
  
 ### Contact 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amanda-gomes-lobo-853231226/)](https://www.linkedin.com/in/amanda-gomes-lobo-853231226/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandalobo.ag@gmail.com)](mailto:amandalobo.ag@gmail.com)
+ <p align="center">
+ <a href="https://www.linkedin.com/in/amandag-lobo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:amandalobo.ag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/760601146276184145" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</p>
 
 <h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
 
