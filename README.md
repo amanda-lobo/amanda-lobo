@@ -2,7 +2,7 @@
 
  <h3 align="center"> I'm Amanda Lobo (She | Her)👩‍💻</h3>
 
-<p align="center">:computer:  I'm Full-Stack Developer Jr, from São Paulo, Brazil.
+<p align="center">:computer:  Backend developer Jr, from São Paulo, Brazil.
 <p align="center">:books: Always looking for new learning.
 
  ##
@@ -12,6 +12,8 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanda-lobo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
 </div>
+ 
+
  
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Amanda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -36,5 +38,3 @@
 </p>
 
 <h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
-
-![Snake animation](https://github.com/amanda-lobo/amanda-lobo/blob/output/github-contribution-grid-snake.svg)
