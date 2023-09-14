@@ -10,7 +10,8 @@
 <div align="center">
    <a href="https://github.com/amanda-lobo">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanda-lobo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lobo&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=00000000"/>
+</div>
 </div>
  
 
