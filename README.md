@@ -37,5 +37,3 @@
   <a href = "mailto:amandalobo.ag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/760601146276184145" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
-
-<h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
