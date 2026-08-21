@@ -2,7 +2,7 @@
 
  <h3 align="center"> I'm Amanda Ferreira 👩‍💻</h3>
 
-<p align="center">:computer:  Full-Stack developer Jr, from São Paulo, Brazil.
+<p align="center">:computer:  Full-Stack developer Jr.
 <p align="center">:books: Always looking for new learning.
 
  ##
